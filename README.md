@@ -2,7 +2,9 @@
 
 Here you will find an exciting collection of projects completed during our internship program. Each project showcases the creative and technical skills of our talented interns. Let's take a brief tour of some of the standout projects:
 
-Calculator Project : The Calculator project is a web-based application that provides basic mathematical operations to perform calculations. It allows users to input numbers, perform addition, subtraction, multiplication, and division operations, and view the results.
+## Calculator Project
+
+The Calculator project is a web-based application that provides basic mathematical operations to perform calculations. It allows users to input numbers, perform addition, subtraction, multiplication, and division operations, and view the results.
 
 Technologies Used :
 HTML
